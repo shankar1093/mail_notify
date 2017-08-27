@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+yarn.lock
+package.json
+
+# client secret
+client_secret.json

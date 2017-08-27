@@ -3,7 +3,7 @@ node_modules/
 package.json
 
 # yarn
-yarn.integrity
+.yarn-integrity
 yarn.lock
 
 # client secret

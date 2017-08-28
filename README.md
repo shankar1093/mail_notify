@@ -1,7 +1,9 @@
 # mail_notify
 
 You will need a client_secret in order to use the gmail API. 
-Follow the instructions defined in https://developers.google.com/gmail/api/quickstart/python to setup your client_secret.json file. 
+Follow the instructions defined in https://console.developers.google.com/flows/enableapi?apiid=gmail to setup your client_secret.json file. 
+
+For Where will you be calling the API from? pick Web Browser and for What data will you be accessing? pick 'User data'
 
 Store your client_secret file in the same directory as your gmail_notify.py script. 
 
